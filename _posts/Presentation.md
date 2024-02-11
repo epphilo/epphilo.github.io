@@ -1,9 +1,11 @@
 
 ---
-title : What is Epphilo ?
-date : 2024-02-10
+title: What is Epphilo ?
+date: 2024-02-12 20:04:00 +/-0000
+categories: [General, Article]
+tags: [general, epphilo, philo, epfl]     # TAG names should always be lowercase
+pin: true
 ---
-
 
 # What is EPPHILO ?
 
