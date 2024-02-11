@@ -1,7 +1,10 @@
+
 ---
 title : What is Epphilo ?
 date : 2024-02-10
 ---
+
+
 # What is EPPHILO ?
 
 Epphilo is a Philosophy association based in EPFL (École Polytechnique de Lausanne)
