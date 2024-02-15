@@ -1,4 +1,5 @@
 ---
+layout: post
 title: What is Epphilo ?
 date: 2024-02-12 20:04:00 +0000
 categories: [General]

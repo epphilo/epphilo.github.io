@@ -16,7 +16,7 @@ timezone: Europe/Paris
 
 title: EPΦL (EPphilo) # the main title
 
-tagline: Association des étudiants de Philosophie # it will display as the sub-title
+tagline: Association des étudiants de l'EPFL pour la Philosophie # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
