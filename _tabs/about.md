@@ -18,3 +18,5 @@ Treasurer: Victor Monfredo
 
 
 Join us at our next event!
+
+You can also follow us on [Instagram](https://www.instagram.com/ep_philo/) and [Telegram](https://t.me/epphilonews).
