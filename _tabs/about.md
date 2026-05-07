@@ -8,13 +8,13 @@ order: 4
 
 Epphilo is an association of EPFL students for philosophy. We organize various events at EPFL that are open to everyone, including conferences, "maté philo" (discussions between students on philosophical subjects), and "joutes oratoires" (debating contests).
 
-Status: 
+Status (2026-2027): 
 
-President: Grégoire Préchac NX 
+President: Grégoire Préchac
 
-Vice-President: Louis Pivron NX
+Vice-President: Pauline Verchinine
 
-Treasurer: Titouan Rattin SIE
+Treasurer: Victor Monfredo
 
 
 Join us at our next event!
