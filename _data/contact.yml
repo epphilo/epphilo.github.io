@@ -7,6 +7,10 @@
   icon: "fab fa-instagram"
   url: "https://www.instagram.com/ep_philo/"
 
+- type: telegram
+  icon: "fab fa-telegram"
+  url: "https://t.me/epphilonews"
+
 - type: email
   icon: "fas fa-envelope"
   noblank: true # open link in current tab
