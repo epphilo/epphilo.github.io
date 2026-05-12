@@ -16,6 +16,7 @@ Vice-President: Pauline Verchinine
 
 Treasurer: Victor Monfredo
 
+Current statutes: [View the PDF](/V6Statusepphilo.pdf)
 
 Join us at our next event!
 
